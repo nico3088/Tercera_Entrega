@@ -1,0 +1,92 @@
+[
+{
+    "id": 1,
+    "title": "Colorado Liberman",
+    "description": "Colorado mufa",
+    "price": 0.00,
+    "thumbnail": "imagen1.jpg",
+    "code": "MUFA123",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "Satanás Páez",
+    "description": "Pega como padrastro borracho",
+    "price": 30000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Sata456",
+    "stock": 4
+  },
+{
+    "id": 3,
+    "title": "Ricardo Iorio",
+    "description": "Más duro que infancia en Siria",
+    "price": 45000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Duro123",
+    "stock": 1
+  },
+{
+    "id": 4,
+    "title": "Bombita Rodriguez",
+    "description": "Palito Ortega Montonero",
+    "price": 1973,
+    "thumbnail": "imagen2.jpg",
+    "code": "ERP",
+    "stock": 2
+  },
+{
+    "id": 5,
+    "title": "Alf",
+    "description": "Extraterrestre come gatos",
+    "price": 200000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Cat eater",
+    "stock": 33
+  },
+{
+    "id": 6,
+    "title": "Caruso Lombardi",
+    "description": "Smoke Seller",
+    "price": 400000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Ricardo",
+    "stock": 1
+  },
+{
+    "id": 7,
+    "title": "Guillermo Moreno",
+    "description": "Demagogia en estado puro, peronista promedio",
+    "price": 600000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Patriota",
+    "stock": 300
+  },
+{
+    "id": 8,
+    "title": "Pato Bullrich",
+    "description": "Anciana beoda",
+    "price": 600000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Blue Label",
+    "stock": 300
+  },
+{
+    "id": 9,
+    "title": "Mycky Vainilla",
+    "description": "Más nazi que Goebbels ",
+    "price": 1000000,
+    "thumbnail": "imagen2.jpg",
+    "code": "SS",
+    "stock": 100
+  },
+{
+    "id": 10,
+    "title": "Nayib Bukele",
+    "description": "The UN´S best friend",
+    "price": 6000000,
+    "thumbnail": "imagen2.jpg",
+    "code": "Mara13",
+    "stock": 300
+  },
+]

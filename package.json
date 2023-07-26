@@ -1,0 +1,14 @@
+{
+  "name": "tercera-entrega",
+  "version": "1.0.0",
+  "description": "Product Server using Express and ProductManager",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Garnero Nicolás",
+  "license": "MIT",
+  "scripts": {
+    "start": "node Main.js"
+  }
+}
